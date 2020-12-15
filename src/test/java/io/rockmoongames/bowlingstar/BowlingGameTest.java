@@ -9,3 +9,11 @@ public class BowlingGameTest {
 
     }
 }
+
+public class BowlingGameTest2 {
+
+    @Test
+    public void russellTestTwo() {
+
+    }
+}
