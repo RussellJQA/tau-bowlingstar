@@ -8,9 +8,6 @@ public class BowlingGameTest {
     public void jessicaTestOne() {
 
     }
-}
-
-public class BowlingGameTest2 {
 
     @Test
     public void russellTestTwo() {
